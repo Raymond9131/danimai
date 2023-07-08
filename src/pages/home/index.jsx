@@ -1,4 +1,4 @@
-import { Box, Button, Container, Stack, Grid } from "@mui/material";
+import { Box, Button, Container, Stack } from "@mui/material";
 import React from "react";
 import logo from "../../images/logo.svg";
 import Background from "../../images/background_mesh.png";
