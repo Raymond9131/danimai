@@ -3,7 +3,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import { Box, Typography } from "@mui/material";
-import player from "../../images/player.png";
+import player from "../../images/player2.png";
 import sliderImg from "../../images/slider.jpg";
 import sliderImg1 from "../../images/slider-1.jpg";
 import sliderImg2 from "../../images/slider-2.jpg";
